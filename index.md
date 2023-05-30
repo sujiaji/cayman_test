@@ -140,9 +140,6 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p><strong>Tuesday, Feb. 28, 2023 (Eastern Time)</strong></p>
 <table width="720">
@@ -219,7 +216,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 <p><strong> </strong></p>
 <p><strong> </strong></p>
 <p><strong>Wednesday, March 1, 2023 (Eastern Time)</strong></p>
@@ -298,9 +295,11 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 </tbody>
 </table>
+
 <p>* Virtual Presentation</p>
 <hr />
-<p>&nbsp;</p>
+
+
 
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
