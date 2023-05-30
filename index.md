@@ -27,6 +27,19 @@ Register [here]() to attend in-person.
   
 More to add
 
+## Organizing Committee
+* Rongling Wu (BIMSA)
+* Lijian Yang (Tsinghua)
+* Zhigang Yao (NUS/Harvard CMSA and Committee Chair)
+
+## Scientific Advisors: 
+* Shiu-Yuen Cheng (Tsinghua)
+* Shing-Tung Yau (Tsinghua)
+  
+## Contact Information
+Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
+
+
 ## Schedule
 
 <table>
@@ -41,18 +54,6 @@ More to add
     <td>10</td>
   </tr>
 </table>
-
-## Organizing Committee
-* Rongling Wu (BIMSA)
-* Lijian Yang (Tsinghua)
-* Zhigang Yao (NUS/Harvard CMSA and Committee Chair)
-
-## Scientific Advisors: 
-* Shiu-Yuen Cheng (Tsinghua)
-* Shing-Tung Yau (Tsinghua)
-  
-## Contact Information
-Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
 
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
