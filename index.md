@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![tour](./pic/tour.jpg)
+<!-- ![tour](./pic/tour.jpg) -->
 
 ## General Information
  <p style="text-align:justify;">
@@ -43,15 +43,13 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 ## Schedule
 
 ## Sponsors
-<!-- ![yanqi](./pic/yanqi_small.png)
-![ymsc](./pic/yanqi_small.png) -->
 
-<table>
+<!-- <table>
 <tr>
 <td><img src="./pic/yanqi_small.png" alt="yanqi"></td>
 <td><img src="./pic/YMSC_small.png" alt="ymsc"></td>
 </tr>
-</table>
+</table> -->
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
