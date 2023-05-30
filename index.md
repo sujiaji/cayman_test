@@ -9,7 +9,7 @@ layout: default
  </p>
 
 
- <p style="text-align:justify;">
+<!--  <p style="text-align:justify;">
 The conference will take place at the <a href="https://www.bimsa.cn/">Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA)</a>, sponsored by BIMSA and the <a href="https://ymsc.tsinghua.edu.cn/en/">Yau Mathematical Sciences Center at Tsinghua University</a>, during July 23 - 25, 2023.
 This conference is a satellite conference of the International Congress of Basic Science scheduled in Beijing during July 17 - 25, 2023.
  </p>
@@ -37,7 +37,7 @@ More to add
 * Shing-Tung Yau (Tsinghua)
   
 ## Contact Information
-Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
+Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a> -->
 
 
 ## Schedule
