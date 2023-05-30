@@ -50,6 +50,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 ## Schedule
 
 <p><strong>Monday, Feb. 27, 2023 (Eastern Time)</strong></p>
+
 <table width="720">
 <tbody>
 <tr>
@@ -142,6 +143,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </table>
 
 <p><strong>Tuesday, Feb. 28, 2023 (Eastern Time)</strong></p>
+
 <table width="720">
 <tbody>
 <tr>
@@ -220,6 +222,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <p><strong> </strong></p>
 <p><strong> </strong></p>
 <p><strong>Wednesday, March 1, 2023 (Eastern Time)</strong></p>
+
 <table width="720">
 <tbody>
 <tr>
