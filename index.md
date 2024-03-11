@@ -56,8 +56,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="170">9:00–10:00 am</td>
-<td width="180">xxx</td>
-<td width="500"><strong>xxx</td>
+<td width="180">Name TBA</td>
+<td width="500"><strong>Title:</strong> Some title here<br>
+<strong>Abstract:</strong> Some abstract text here</td>
 </tr>
 <tr>
 <td width="170">10:00–10:10 am</td>
