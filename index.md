@@ -34,11 +34,11 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 <p><strong>Monday, Feb. 27, 2023 (Singapore Time)</strong></p>
 
-<table width="820">
+<table width="850">
 <tbody>
 <tr>
 <td width="130">8:30</td>
-<td colspan="2"><center>Breakfast</center></td>
+<td colspan="2" align="center">Breakfast</td>
 </tr>
 <tr>
 <td width="130">8:45–8:55</td>
@@ -51,7 +51,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <td width="500">Remarks</td>
 </tr>
 <tr>
-<td colspan="3"> <strong>Morning Session Chair:</strong> xxx</td>
+<td colspan="3" align="center"> <strong>Morning Session Chair:<strong> xxx</td>
 </tr>
 <tr>
 <td width="130">9:00–10:00</td>
@@ -61,7 +61,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="130">10:00–10:10</td>
-<td colspan="2" width="562">Break</td>
+<td colspan="2"  align="center">Break</td>
 </tr>
 <tr>
 <td width="130">10:10–11:10</td>
@@ -70,7 +70,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="130">11:10–11:20</td>
-<td colspan="2" width="562">Break</td>
+<td colspan="2"  align="center">Break</td>
 </tr>
 <tr>
 <td width="130">11:20–12:20</td>
@@ -79,12 +79,11 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="130"> 12:20–13:50</td>
-<td colspan="2" width="562">12:20 Group Photo</p>
-<p>followed by Lunch</td>
+<td colspan="2"  align="center">Group Photo, followed by Lunch</td>
 </tr>
 <tr>
 <td width="130"></td>
-<td colspan="2" width="562">Afternoon Session Chair: xxx</td>
+<td colspan="3"  align="center">Afternoon Session Chair: xxx</td>
 </tr>
 <tr>
 <td width="130">13:50–14:50</td>
@@ -93,7 +92,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="130">14:50–15:00</td>
-<td colspan="2" width="562">Break</td>
+<td colspan="2"  align="center">Break</td>
 </tr>
 <tr>
 <td width="130">15:00-16:00</td>
@@ -102,7 +101,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
 <td width="130">16:00-16:10</td>
-<td colspan="2" width="562">Break</td>
+<td colspan="2"  align="center">Break</td>
 </tr>
 <tr>
 <td width="130">16:10-17:10</td>
