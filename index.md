@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![tour](./pic/tour.jpg)
+![tour](./pic/tour-tsimf.png)
 
 ## General Information
  <p style="text-align:justify;">
@@ -123,7 +123,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 <table>
 <tr>
-<td><img src="./pic/yanqi_small.png" alt="yanqi"></td>
-<td><img src="./pic/YMSC_small.png" alt="ymsc"></td>
+<td><img src="./pic/tsimf.png" alt="tsimf_logo"></td>
+<td><img src="./pic/YMSC_small.png" alt="ymsc_logo"></td>
 </tr>
 </table>
