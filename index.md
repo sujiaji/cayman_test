@@ -37,77 +37,77 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <table width="820">
 <tbody>
 <tr>
-<td width="180">8:30 am</td>
+<td width="170">8:30 am</td>
 <td colspan="2" width="562">Breakfast</td>
 </tr>
 <tr>
-<td width="180">8:45–8:55 am</td>
+<td width="170">8:45–8:55 am</td>
 <td width="180">xxx</td>
-<td width="460">Welcome Remarks</td>
+<td width="500">Welcome Remarks</td>
 </tr>
 <tr>
-<td width="180">8:55–9:00 am</td>
+<td width="170">8:55–9:00 am</td>
 <td width="180">xxx</td>
-<td width="460">Remarks</td>
+<td width="500">Remarks</td>
 </tr>
 <tr>
-<td width="180"></td>
+<td width="170"></td>
 <td colspan="2" width="562">Morning Session Chair: xxx</td>
 </tr>
 <tr>
-<td width="180">9:00–10:00 am</td>
+<td width="170">9:00–10:00 am</td>
 <td width="180">xxx</td>
-<td width="460"><strong>xxx</td>
+<td width="500"><strong>xxx</td>
 </tr>
 <tr>
-<td width="180">10:00–10:10 am</td>
+<td width="170">10:00–10:10 am</td>
 <td colspan="2" width="562">Break</td>
 </tr>
 <tr>
-<td width="180">10:10–11:10 am</td>
+<td width="170">10:10–11:10 am</td>
 <td width="180">xxx</td>
-<td width="460">xxx</td>
+<td width="500">xxx</td>
 </tr>
 <tr>
-<td width="180">11:10–11:20 am</td>
+<td width="170">11:10–11:20 am</td>
 <td colspan="2" width="562">Break</td>
 </tr>
 <tr>
-<td width="180">11:20 am–12:20 pm</td>
+<td width="170">11:20–12:20 pm</td>
 <td width="180">xxx</td>
-<td width="460">xxx</td>
+<td width="500">xxx</td>
 </tr>
 <tr>
-<td width="180"> 12:20–1:50 pm</td>
+<td width="170"> 12:20–1:50 pm</td>
 <td colspan="2" width="562">12:20 pm Group Photo</p>
 <p>followed by Lunch</td>
 </tr>
 <tr>
-<td width="180"></td>
+<td width="170"></td>
 <td colspan="2" width="562">Afternoon Session Chair: xxx</td>
 </tr>
 <tr>
-<td width="180">1:50–2:50 pm</td>
+<td width="170">1:50–2:50 pm</td>
 <td width="180">xxx</td>
-<td width="460">xxx</td>
+<td width="500">xxx</td>
 </tr>
 <tr>
-<td width="180">2:50–3:00 pm</td>
+<td width="170">2:50–3:00 pm</td>
 <td colspan="2" width="562">Break</td>
 </tr>
 <tr>
-<td width="180">3:00-4:00 pm</td>
+<td width="170">3:00-4:00 pm</td>
 <td width="180">xxx</td>
-<td width="460">xxx</td>
+<td width="500">xxx</td>
 </tr>
 <tr>
-<td width="180">4:00-4:10 pm</td>
+<td width="170">4:00-4:10 pm</td>
 <td colspan="2" width="562">Break</td>
 </tr>
 <tr>
-<td width="180">4:10-5:10 pm</td>
+<td width="170">4:10-5:10 pm</td>
 <td width="180">xxx</td>
-<td width="460">xxx</td>
+<td width="500">xxx</td>
 </tr>
 </tbody>
 </table>
