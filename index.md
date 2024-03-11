@@ -80,10 +80,10 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </tr>
 <tr>
   <td width="150"> 12:20–13:50</td>
-  <td colspan="2">Group Photo, followed by Lunch</td>
+  <td colspan="2">Group Photo, followed by lunch</td>
 </tr>
 <tr>
-  <td width="150"></td>
+  <td width="00"></td>
   <td colspan="2"> <strong>Afternoon Session Chair:</strong> xxx</td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 <table>
 <tr>
-<td><img src="./pic/tsimf.png" alt="tsimf_logo" width="50%"></td>
-<td><img src="./pic/YMSC_small.png" alt="ymsc_logo" width="50%"></td>
+<td width="50%"><img src="./pic/tsimf.png" alt="tsimf_logo" width="100%"></td>
+<td width="50%"><img src="./pic/YMSC_small.png" alt="ymsc_logo" width="100%"></td>
 </tr>
 </table>
