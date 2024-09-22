@@ -1,5 +1,8 @@
 ---
 layout: default
+title: The First Symposium of Geometry and Statistics
+description: Yanqi Lake Beijing Institute of Mathematical Sciences and Applications, Yau Center at Tsinghua University <br> Beijing July 29 - 31, 2023
+
 ---
 ![tour](./pic/tour.jpg)
 
