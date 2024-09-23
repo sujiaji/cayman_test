@@ -25,6 +25,25 @@
   <head>
     <meta charset="UTF-8">
 
+    <style>
+      /* Styles specifically for the new image table */
+      .img-table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+  
+      .img-table td {
+        width: 50%;
+        text-align: center;
+      }
+  
+      .img-table img {
+        height: 30em; /* Set desired height */
+        max-width: 100%; /* Ensure images scale proportionally */
+        object-fit: contain; /* Preserve aspect ratio */
+      }
+    </style>
+
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>

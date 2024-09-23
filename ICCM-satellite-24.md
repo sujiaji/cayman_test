@@ -124,9 +124,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 <!-- ![yanqi](./pic/yanqi_small.png)
 ![ymsc](./pic/yanqi_small.png) -->
 
-<table>
+<table class="img-table">
 <tr>
-<td width="50%"><img src="./pic/simis-logo.png" alt="simis_logo" height="10em"></td>
-<td width="50%"><img src="./pic/tsimf.png" alt="tsimf_logo" height="10em"></td>
+<td width="50%"><img src="./pic/simis-logo.png" alt="simis_logo"></td>
+<td width="50%"><img src="./pic/tsimf.png" alt="tsimf_logo"></td>
 </tr>
 </table>
