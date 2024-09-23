@@ -35,10 +35,12 @@
       .img-table td {
         width: 50%;
         text-align: center;
+        vertical-align: middle; /* Vertically center the images in the cells */
+        height: 30em; /* Set a specific row height */
       }
   
       .img-table img {
-        height: 30em; /* Set desired height */
+        height: 100%; /* Make the image fit the height of the row */
         max-width: 100%; /* Ensure images scale proportionally */
         object-fit: contain; /* Preserve aspect ratio */
       }
