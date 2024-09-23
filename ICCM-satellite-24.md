@@ -3,7 +3,7 @@ layout: default
 title: The Second Symposium of Geometry and Statistics in China
 description: The Tsinghua Sanya International Mathematics Forum (TSIMF) <br> Sanya December 11 - 13, 2024 (tentatively)
 ---
-![tour](./pic/tour-tsimf.png)
+![tour](./pic/simis-tour-2.jpg)
 
 ## General Information
  <p style="text-align:justify;">
