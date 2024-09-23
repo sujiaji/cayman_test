@@ -5,7 +5,7 @@ google_analytics:
 theme: jekyll-theme-cayman
 site.github.is_project_page: false
 owner_name: Su Jiaji
-owner_url: 
+owner_url: ../
 last_updated: true
 
 markdown: GFM

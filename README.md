@@ -10,6 +10,8 @@
 
 To use the Template:
 
-1. Make a new page like the provided one, and change the details.
+- Change the site information in `_config.yml`.
 
-2. Revise the main text in `index.md`.
+- Make a new page like the provided one, and change the details.
+
+- Revise the list information in `index.md`.
