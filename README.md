@@ -16,7 +16,11 @@ To use the Template:
 
 - Revise the list information in `index.md`.
 
-## Local preview
+## Local run
+
+Need to setup jekyll first. Then, for preview run: 
 ```
 bundle exec jekyll serve
 ```
+
+To build the site:
