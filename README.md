@@ -22,5 +22,3 @@ Need to setup jekyll first. Then, for preview run:
 ```
 bundle exec jekyll serve
 ```
-
-To build the site:
