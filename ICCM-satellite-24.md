@@ -4,6 +4,7 @@ title: The Second Symposium of Geometry and Statistics in China
 description: The Tsinghua Sanya International Mathematics Forum (TSIMF) <br> Sanya December 11 - 13, 2024 (tentatively)
 ---
 ![tour](./pic/simis-tour-2.jpg)
+![tour](./pic/tsimf-tour.png)
 
 ## General Information
  <p style="text-align:justify;">
@@ -125,7 +126,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 <table>
 <tr>
+<td width="50%"><img src="./pic/simis-log.png" alt="simis_logo" width="100%"></td>
 <td width="50%"><img src="./pic/tsimf.png" alt="tsimf_logo" width="100%"></td>
-<td width="50%"><img src="./pic/YMSC_small.png" alt="ymsc_logo" width="100%"></td>
 </tr>
 </table>
