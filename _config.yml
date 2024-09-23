@@ -8,4 +8,10 @@ owner_name: Su Jiaji
 owner_url: ../
 last_updated: true
 
-markdown: GFM
+## Local run:
+markdown: kramdown
+kramdown:
+  input: GFM
+
+## Github run:
+# markdown: GFM

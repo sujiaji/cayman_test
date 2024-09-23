@@ -15,3 +15,8 @@ To use the Template:
 - Make a new page like the provided one, and change the details.
 
 - Revise the list information in `index.md`.
+
+## Local preview
+```
+bundle exec jekyll serve
+```
