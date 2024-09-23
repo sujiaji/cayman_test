@@ -126,7 +126,7 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 
 <table>
 <tr>
-<td width="50%"><img src="./pic/simis-log.png" alt="simis_logo" width="100%"></td>
+<td width="50%"><img src="./pic/simis-logo.png" alt="simis_logo" width="100%"></td>
 <td width="50%"><img src="./pic/tsimf.png" alt="tsimf_logo" width="100%"></td>
 </tr>
 </table>
